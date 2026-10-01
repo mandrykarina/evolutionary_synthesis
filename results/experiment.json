@@ -1,0 +1,18 @@
+{
+  "config": {
+    "population": 56,
+    "generations": 75,
+    "runs": 20,
+    "first_seed": 37000,
+    "mutation_probability": 0.08333333333333333,
+    "crossover_probability": 0.9,
+    "group": 507,
+    "student_number": 17,
+    "year": 2026,
+    "variant": 16
+  },
+  "python": "3.12.14",
+  "numpy": "2.3.5",
+  "matplotlib": "3.10.8",
+  "seed_policy": "first_seed + run_index"
+}

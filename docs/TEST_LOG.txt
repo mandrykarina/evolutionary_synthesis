@@ -1,0 +1,12 @@
+test_budget_and_determinism (test_model.Tests.test_budget_and_determinism) ... ok
+test_coverage (test_model.Tests.test_coverage) ... ok
+test_crowding (test_model.Tests.test_crowding) ... ok
+test_equal_points (test_model.Tests.test_equal_points) ... ok
+test_fronts_hand_calculated (test_model.Tests.test_fronts_hand_calculated) ... ok
+test_objective_hand_calculated (test_model.Tests.test_objective_hand_calculated) ... ok
+test_repair (test_model.Tests.test_repair) ... ok
+
+----------------------------------------------------------------------
+Ran 7 tests in 0.060s
+
+OK
